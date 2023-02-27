@@ -1,0 +1,15 @@
+{
+  "unpublishedCollection": {
+    "name": "randomID",
+    "pageId": "Car showroom",
+    "pluginId": "js-plugin",
+    "pluginType": "JS",
+    "actions": [],
+    "archivedActions": [],
+    "variables": [],
+    "userPermissions": []
+  },
+  "id": "Car showroom_randomID",
+  "deleted": false,
+  "gitSyncId": "63fc57d7fc94125bf36999db_63fc5808fc94125bf3699a12"
+}
